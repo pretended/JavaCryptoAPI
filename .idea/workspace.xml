@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e4a3ff1-7011-48db-9f78-860a03be5524" name="Default Changelist" comment="" />
+    <list default="true" id="2e4a3ff1-7011-48db-9f78-860a03be5524" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Adapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Adapter.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +16,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -22,6 +27,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WnNDxGOa19yYKigNXhYFyVDZKJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -69,6 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579781282498</updated>
       <workItem from="1579781286660" duration="4891000" />
+      <workItem from="1579786704139" duration="556000" />
     </task>
     <servers />
   </component>
@@ -80,6 +87,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="545" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1579783227084" />
+    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1579787467760">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="101" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1579787467760" />
     <state width="1493" height="231" key="GridCell.Tab.0.bottom" timestamp="1579786580114">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -100,5 +111,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1579781377120" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1579787251295">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579787251295" />
   </component>
 </project>
