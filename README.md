@@ -4,9 +4,9 @@
 
 ### Make sure you add Ticker class to your project 
 
-### Ticker bitcoin = new Ticker("bitcoin");
-### Ticker ethereum = new Ticker("ethereum");
-### Ticker eos = new Ticker("eos");
+#### Ticker bitcoin = new Ticker("bitcoin");
+#### Ticker ethereum = new Ticker("ethereum");
+#### Ticker eos = new Ticker("eos");
 
 ## Available methods for around 2350 coins:
 
